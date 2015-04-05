@@ -11,7 +11,7 @@ public class EntranceBBActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_entrance_bb);
+        setContentView(R.layout.activity_entrance_bb_landscape);
     }
 
 
